@@ -12,9 +12,9 @@ st.set_page_config(page_title="Data Visualizer",
                    page_icon="📈")
 
 # title
-st.title("📈 Data Visualizer - Web App")
+st.title("📈 Data Visualizer - by Mekhma")
 
-st.write("- Mekhma/MekhzZ")
+
 
 working_dir = os.path.dirname(os.path.abspath(__file__))
 
