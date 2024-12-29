@@ -54,5 +54,5 @@ This repository showcases the implementation of a **CI/CD pipeline** for a **Str
    - Use Ansible for deployment automation.
 
 ## Certificate of Participation
-View my certificate from the CI/CD workshop: [Certificate Link](<certificate_link>)
+View my certificate from the CI/CD workshop: [Certificate Link](<https://drive.google.com/file/d/1AT337zjfNk__StSGGSpRwJ9iucrVV3N2/view?usp=sharing>)
 
