@@ -32,8 +32,8 @@ This repository showcases the implementation of a **CI/CD pipeline** for a **Str
 
 1. **Clone the Repository**:
    ```bash
-   git clone <repository_url>
-   cd <repository_name>
+   git clone https://github.com/MekhzZ/CI-CD_Pipeline_for_Data_Visualizer_Streamlit_Web_App.git
+   cd CI-CD_Pipeline_for_Data_Visualizer_Streamlit_Web_App
    ```
 
 2. **Build the Docker Image**:
