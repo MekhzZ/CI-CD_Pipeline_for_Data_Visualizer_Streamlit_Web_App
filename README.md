@@ -56,3 +56,6 @@ This repository showcases the implementation of a **CI/CD pipeline** for a **Str
 ## Certificate of Participation
 View my certificate from the CI/CD workshop: [Certificate Link](<https://drive.google.com/file/d/1AT337zjfNk__StSGGSpRwJ9iucrVV3N2/view?usp=sharing>)
 
+## Learning resources
+Acccess my learning resource: [Learning resources](<https://apurwa.com.np/CI-CD-pipeline-for-a-Python-project-using-Git-Docker-Jenkins-and-Ansible>)
+
